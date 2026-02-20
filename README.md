@@ -1,7 +1,6 @@
 # Ian Altemus
 
-[![AWS SAA](https://images.credly.com/size/110x110/images/0eaa5f67-5eaa-4c79-bd2d-74a84b67b6fd/image.png)](https://www.credly.com/badges/19f4bfba-967b-4f03-9892-aedf0ddfa51c/public_url)
-
+**AWS Certified Solutions Architect**  
 Cloud Automation Engineer focused on cost optimization, security, and reliable cloud operations.
 
 I design and build event-driven AWS systems that improve governance, reduce unnecessary spend, and strengthen operational visibility.
